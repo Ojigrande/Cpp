@@ -16,3 +16,4 @@ set(CMAKE_LIBRARY_OUTPUT_DIRECTORY_RELEASE "${CMAKE_SOURCE_DIR}/bin.release")
 # Add project collections to build tree.
 # -----------------------------------------------------------------------
 add_subdirectory(01-max_element_by_priedikat)
+add_subdirectory(02-table)
